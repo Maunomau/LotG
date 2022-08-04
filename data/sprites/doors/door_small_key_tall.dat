@@ -1,0 +1,32 @@
+animation{
+  name = "closed",
+  src_image = "doors/doortall.png",
+  directions = {
+    { x = 96, y = 0, frame_width = 24, frame_height = 32, origin_x = 8, origin_y = 8 },
+    { x = 64, y = 88, frame_width = 32, frame_height = 24, origin_x = 8, origin_y = 0 },
+    { x = 48, y = 32, frame_width = 24, frame_height = 32, origin_x = 0, origin_y = 8 },
+    { x = 64, y = 64, frame_width = 32, frame_height = 24, origin_x = 8, origin_y = 8 },
+  },
+}
+animation{
+  name = "closing",
+  src_image = "doors/doortall.png",
+  frame_delay = 100,
+  directions = {
+    { x = 24, y = 0, frame_width = 24, frame_height = 32, origin_x = 8, origin_y = 8 },
+    { x = 160, y = 88, frame_width = 32, frame_height = 24, origin_x = 8, origin_y = 0 },
+    { x = 120, y = 32, frame_width = 24, frame_height = 32, origin_x = 0, origin_y = 8 },
+    { x = 160, y = 64, frame_width = 32, frame_height = 24, origin_x = 8, origin_y = 8 },
+  },
+}
+animation{
+  name = "opening",
+  src_image = "doors/doortall.png",
+  frame_delay = 100,
+  directions = {
+    { x = 24, y = 0, frame_width = 24, frame_height = 32, origin_x = 8, origin_y = 8 },
+    { x = 160, y = 88, frame_width = 32, frame_height = 24, origin_x = 8, origin_y = 0 },
+    { x = 120, y = 32, frame_width = 24, frame_height = 32, origin_x = 0, origin_y = 8 },
+    { x = 160, y = 64, frame_width = 32, frame_height = 24, origin_x = 8, origin_y = 8 },
+  },
+}

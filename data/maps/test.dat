@@ -1,0 +1,1830 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  min_layer = 0,
+  max_layer = 2,
+  tileset = "castle",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 40,
+  width = 8,
+  height = 16,
+  pattern = "innerWallTop_DiaTopNW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "innerWallMid_2",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 32,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_DiaSE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 72,
+  width = 8,
+  height = 8,
+  pattern = "innerWallBot_DiaNE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "innerWallMid_3",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 64,
+  width = 8,
+  height = 8,
+  pattern = "innerWallBot_3",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 40,
+  width = 8,
+  height = 16,
+  pattern = "innerWallTop_DiaTopNE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 32,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_DiaSW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 72,
+  width = 8,
+  height = 8,
+  pattern = "innerWallBot_DiaNW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 64,
+  width = 8,
+  height = 8,
+  pattern = "innerWallBot_2",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 40,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_EdgeW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 40,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_EdgeE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_CornerSE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 40,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_CornerNW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_EdgeS",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 40,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_EdgeN",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 40,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_CornerNE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 136,
+  y = 32,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_CornerSW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 56,
+  width = 24,
+  height = 8,
+  pattern = "innerWallBot",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 64,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_4",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 88,
+  y = 64,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_3",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_6",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 64,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_5",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 64,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_2",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 40,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_1",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 40,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_4",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 88,
+  y = 72,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_3",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 72,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_6",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_5",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 72,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_2",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 72,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_1",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_4",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 40,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_3",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_6",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_5",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_2",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_1",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 16,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_4",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 88,
+  y = 16,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_3",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 16,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_6",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 16,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_5",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 16,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_2",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 16,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_1",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 24,
+  width = 8,
+  height = 16,
+  pattern = "innerWallTop_DiaTopNE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 32,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_CornerSW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "innerWallBot_2",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 8,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_1wayE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 32,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_EdgeS",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 64,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_5",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "innerWallBot_DiaNE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 40,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_2wayES",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_3wayNES",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 64,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_2",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 16,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_CornerNE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 32,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_1wayN",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 24,
+  width = 8,
+  height = 16,
+  pattern = "innerWallTop_DiaTopNW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_ExtraSE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 24,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_EdgeW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 40,
+  width = 8,
+  height = 8,
+  pattern = "innerWallMid",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 64,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_6",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_2wayNW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 64,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_3",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 8,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_3wayNEW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "innerWallBot_3",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 16,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_DiaSE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 40,
+  width = 8,
+  height = 8,
+  pattern = "innerWallMid_3",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 24,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_EdgeE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 8,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_2wayEW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 16,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_1wayS",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 40,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_2waySW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_ExtraSW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "innerWallBot",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 64,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_4",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 16,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_CornerNW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 24,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 16,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_DiaSW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_ExtraNE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_2wayNE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 64,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_1",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 40,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_3wayNSW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 8,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_3wayESW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 32,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_CornerSE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 40,
+  width = 8,
+  height = 8,
+  pattern = "innerWallMid_2",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "innerWallBot_DiaNW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 8,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_1wayW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 16,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_EdgeN",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 24,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_2wayNS",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_ExtraNW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 8,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_4way",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 96,
+  width = 8,
+  height = 16,
+  pattern = "innerWallTop_DiaTopNE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 104,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_CornerSW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 120,
+  width = 8,
+  height = 8,
+  pattern = "innerWallBot_2",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_1wayE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 104,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_EdgeS",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 136,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_5",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 128,
+  width = 8,
+  height = 8,
+  pattern = "innerWallBot_DiaNE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 112,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_2wayES",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 120,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_3wayNES",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 136,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_2",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_CornerNE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 104,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_1wayN",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 96,
+  width = 8,
+  height = 16,
+  pattern = "innerWallTop_DiaTopNW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 128,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_ExtraSE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 96,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_EdgeW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 112,
+  width = 8,
+  height = 8,
+  pattern = "innerWallMid",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 136,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_6",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 120,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_2wayNW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 136,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_3",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_3wayNEW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 120,
+  width = 8,
+  height = 8,
+  pattern = "innerWallBot_3",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_DiaSE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 112,
+  width = 8,
+  height = 8,
+  pattern = "innerWallMid_3",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 96,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_EdgeE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_2wayEW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_1wayS",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 112,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_2waySW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 128,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_ExtraSW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 120,
+  width = 8,
+  height = 8,
+  pattern = "innerWallBot",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 136,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_4",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_CornerNW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 96,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_DiaSW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 128,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_ExtraNE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 120,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_2wayNE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 136,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_1",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 112,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_3wayNSW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_3wayESW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 104,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_CornerSE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 112,
+  width = 8,
+  height = 8,
+  pattern = "innerWallMid_2",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 128,
+  width = 8,
+  height = 8,
+  pattern = "innerWallBot_DiaNW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_1wayW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_EdgeN",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 96,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_2wayNS",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 128,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_ExtraNW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_4way",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 160,
+  width = 8,
+  height = 16,
+  pattern = "innerWallTop_DiaTopNE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 168,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_CornerSW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 184,
+  width = 8,
+  height = 8,
+  pattern = "innerWallBot_2",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 144,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_1wayE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 168,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_EdgeS",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 200,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_5",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 192,
+  width = 8,
+  height = 8,
+  pattern = "innerWallBot_DiaNE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 176,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_2wayES",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 184,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_3wayNES",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 200,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_2",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 152,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_CornerNE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 168,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_1wayN",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 160,
+  width = 8,
+  height = 16,
+  pattern = "innerWallTop_DiaTopNW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 192,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_ExtraSE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 160,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_EdgeW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 176,
+  width = 8,
+  height = 8,
+  pattern = "innerWallMid",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 200,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_6",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 184,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_2wayNW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 200,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_3",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 144,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_3wayNEW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 184,
+  width = 8,
+  height = 8,
+  pattern = "innerWallBot_3",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 152,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_DiaSE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 176,
+  width = 8,
+  height = 8,
+  pattern = "innerWallMid_3",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 160,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_EdgeE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 144,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_2wayEW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 152,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_1wayS",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 176,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_2waySW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 192,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_ExtraSW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 184,
+  width = 8,
+  height = 8,
+  pattern = "innerWallBot",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 200,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_4",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 152,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_CornerNW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 160,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 152,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_DiaSW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 192,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_ExtraNE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 184,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_2wayNE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 200,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_Stain_1",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 176,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_3wayNSW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 144,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_3wayESW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 168,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_CornerSE",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 176,
+  width = 8,
+  height = 8,
+  pattern = "innerWallMid_2",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 192,
+  width = 8,
+  height = 8,
+  pattern = "innerWallBot_DiaNW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 144,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_1wayW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 152,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_EdgeN",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 160,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_2wayNS",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 192,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_ExtraNW",
+  tileset = "counterTest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 144,
+  width = 8,
+  height = 8,
+  pattern = "innerWallTop_4way",
+  tileset = "counterTest",
+}
+

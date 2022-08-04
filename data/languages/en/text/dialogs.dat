@@ -1,0 +1,36 @@
+dialog{
+  id = "WIP_BossRoom",
+  text = [[
+(imagine a cool boss fight here)
+You won! Congratulations! Do tell
+me about it! For now that's all.
+]],
+}
+
+dialog{
+  id = "WIP_DungeonWelcome",
+  text = [[
+Hi! Welcome!
+Get the blue chest and reach
+the boss room in the north.
+]],
+}
+
+dialog{
+  id = "WIP_DungeonWelcome_copy",
+  text = [[
+Hi! Welcome to this dungeon. I'd love
+to hear your thoughts about it, it's still
+slightly under construction with some areas being a bit plain but overall it should be impossible to get stuck and reaching the boss room should be an interesting experience with many possible ways to get there.
+]],
+}
+
+dialog{
+  id = "WIP_Sorry",
+  text = [[
+I want to have switches that do something interesting here
+but it's tricky. So for now there's just two chests here.
+Sorry.
+]],
+}
+

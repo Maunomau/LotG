@@ -1,0 +1,16 @@
+animation{
+  name = "on",
+  src_image = "world_objects/torches.png",
+  frame_delay = 120,
+  frame_to_loop_on = 2,
+  directions = {
+    { x = 0, y = 48, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29, num_frames = 3 },
+  },
+}
+animation{
+  name = "off",
+  src_image = "world_objects/torches.png",
+  directions = {
+    { x = 48, y = 48, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29 },
+  },
+}
